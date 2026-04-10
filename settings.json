@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "arabsmp.sdlf.fun",
-    "port": 25565,
+    "ip": "arabsmp.tkmc.qzz.io",
+    "port": 42692,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "السلام عليكم ",
+        "اشتركوا ل خلودي555!",
+        "هلا شباب"
       ]
     },
     "chat-log": true,
