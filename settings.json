@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "ArabSmp",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "ArabSmp",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "arabsmp.sdlf.fun",
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
